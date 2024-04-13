@@ -39,11 +39,22 @@
 
 
 ####    Requisitos funcionais vs Requisitos nao funcionais
-    (fazer uma tabela aqui tbm)
-    Funcionais -> São funcionalidades que um sistema deve ser capaz de executar. Descreve o comportamento do sistema. Exemplo: O sistema deve permitir que o usuario logue com um nome de usuario e senha
-
-
-    Nao funcional -> Caracteristicas que o sistema deve ter mas que não estão diretamente relacionadas à funcionalidade especifica do sistema. Exemplos: Seguranca, usabilidade, conformidade... Para ficar mais claro, algo nao funcional é um sistema ser capaz de suportar 1000 usuarios simultaneos. Outro exemplo é o sistema criptografar senhas de usuarios para garantir segurança.
+    
+```
+                Funcionais             |            Não funcional
+    ------------------------------------------------------------------------        
+    São funcionalidades que um sistema | Caracteristicas que o sistema deve  
+    deve ser capaz de executar.        | ter mas que não estão diretamente
+    Exemplo: O sistema deve permitir   | relacionadas à funcionalidade especifica 
+    que o usuario logue com um nome    | do sistema. Exemplos: Seguranca, 
+    de usuario e senha.                | usabilidade, conformidade...
+                                       | Para ficar mais claro, algo nao funcional é 
+                                       | um sistema ser capaz de suportar 1000
+                                       | simultaneos. Outro exemplo é o sistema 
+                                       | criptografar senhas de usuarios para 
+                                       | garantir segurança.
+```     
+     
     
     
 ####    Alguns exemplos:
