@@ -83,3 +83,19 @@
 * Prototipacao
 * Pesquisa de mercado
 * Analise de documentacao existente
+
+#### Tipos de requisitos de Elicitação
+
+Normal:
+* cliente lembra de falar
+* cliente espera encontrar esse requisito no sistema
+
+Requisito esperado:
+* requisito implicito
+* cliente nao lembra de falar
+* cliente ficara insatisfeito se o requisito nao estiver no sistema
+
+Requisito excitante:
+* cliente nao lembra de falar
+* cliente nao espera encontrar esse requisito no sistema
+* cliente ficara satisfeito se esse requisito estiver no sistema
