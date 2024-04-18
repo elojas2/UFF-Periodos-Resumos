@@ -68,3 +68,18 @@
         Requisito externo
             - deve garantir privacidade do usuario, engual diz a LGPD
     
+
+#### Elicitação
+
+    Tem como objetivo entender o que o cliente espera do software, porém
+    surge problemas como incertezas do cliente, volatibilidade dos requisitos.
+
+
+#### Tecnicas de Elicitação
+
+* Entrevistas
+* Workshops
+* Reunioes de brainstorming
+* Prototipacao
+* Pesquisa de mercado
+* Analise de documentacao existente
