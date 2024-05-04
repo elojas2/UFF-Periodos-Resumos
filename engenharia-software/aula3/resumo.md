@@ -29,3 +29,17 @@ Estrutura simples de um caso de uso
 * Quando tudo da certo, como o sistema se comporta?
 * Algo pode ocorrer de forma diferente nesse passo?
 * O que pode dar errado nesse passo?
+
+
+
+#### Diagrama de casos de uso - relacionamento de extensao
+
+* Encapsula um cenario alternativo complexo em um outro caso de uso
+* É condicional: utiliza o campo "gatilho" para definir o momento que entra em ação.
+* Pode ser visto como um remendo do caso de uso base
+
+
+#### Diagrama de casos de uso - relacionamento de inclusao
+
+* adicao de um comportamento especifico em um ponto determinado do caso de uso
+* é bem util quando esse comportamento é repetido em diversos casos de uso do sistema
